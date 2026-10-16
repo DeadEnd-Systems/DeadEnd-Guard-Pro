@@ -8,4 +8,4 @@ Most free hosting platforms (like PythonAnywhere) aggressively kill background t
 Instead of relying on blocked threads, I developed this custom `Task Execution Loop`. It stores tasks in a time-stamped queue and executes them natively inside the main loop, bypassing server restrictions completely.
 
 *Developed by team (DeadEnd Systems)* 🚀
-
+📩 **Contact Developer for VIP Setup:** [Telegram: @DeadEndGuard_bot]

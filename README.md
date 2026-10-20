@@ -9,7 +9,7 @@ Welcome to DeadEnd Guard Pro — not just another Telegram bot, but a complete e
 Don't want the headache of hosting, server setups, and bot tokens? 
 Get the Ready-to-Use VIP Version instantly! 24/7 Uptime, Premium Support, and Instant Activation.
 
-👉 [https://bagwan00.gumroad.com/] (Bhai yahan apna Gumroad ka link daal dena)
+👉 [https://arbajdev.gumroad.com/l/meexh] (Bhai yahan apna Gumroad ka link daal dena)
 
 ⚙️ Under The Hood: The Custom Execution Engine
 

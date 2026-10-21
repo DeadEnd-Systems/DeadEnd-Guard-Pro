@@ -9,7 +9,7 @@ Welcome to DeadEnd Guard Pro — not just another Telegram bot, but a complete e
 Don't want the headache of hosting, server setups, and bot tokens? 
 Get the Ready-to-Use VIP Version instantly! 24/7 Uptime, Premium Support, and Instant Activation.
 
-👉 [https://arbajdev.gumroad.com/l/meexh] (Bhai yahan apna Gumroad ka link daal dena)
+👉 [https://arbajdev.gumroad.com/l/meexh]
 
 ⚙️ Under The Hood: The Custom Execution Engine
 
@@ -50,4 +50,7 @@ Ghost Broadcast (Owner Only): Broadcast messages instantly to your entire VIP ne
 👨‍💻 Developed By
 DeadEnd Systems 
 Need a custom bot or Enterprise setup?
-📩 **Contact Developer for VIP Setup:** [Telegram: https://t.me/DeadEndGuard_bot
+📩 **Contact Developer for VIP 
+
+Try: Setup:** [Telegram: https://t.me/DeadEndGuard_bot
+DM ME: https://t.me/DeadEndGuardSupport_bot
